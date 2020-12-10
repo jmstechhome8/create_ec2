@@ -7,7 +7,7 @@ ami = "ami-08f63db601b82ff5f"
 instance_type = "t2.micro"
 
 tags = {
-Name = "terraform-test"
+Name = "terrafrom_example"
 }
 }
 
